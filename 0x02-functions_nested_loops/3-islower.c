@@ -2,6 +2,8 @@
 
 /**
  * _islower - checks for lowercase character
+ * @c: variable to determine if input is lowercase
+ *
  * main - uses built in function
  * Return: 0 if succesful
  */
